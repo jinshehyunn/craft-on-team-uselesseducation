@@ -40,7 +40,7 @@
 > 게임 안의 **게임 설명**(`H`)에서 규칙 · 역할 · 스킬 · 몬스터 · 보스 · 아이템을 자세히 볼 수 있습니다.
 
 ## 다운로드
-[게임 다운로드 (v1.0)](https://github.com/아이디/레포이름/releases/tag/v1.0)
+[게임 다운로드 (v1.0)](https://github.com/jinshehyunn/craft-on-team-uselesseducation/releases/tag/v1.0)
 
 | 파일 | 대상 |
 |---|---|
