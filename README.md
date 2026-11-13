@@ -43,7 +43,7 @@
 [게임 실행 (v1.0)](https://github.com/jinshehyunn/craft-on-team-uselesseducation/releases/tag/v1.0)
 
 ## 실행 방법
-zip 압축 해제 후 triple-hunter.html 더블클릭으로 실행
+triple-hunter.html 다운로드 후 바로 실행
 
 > 인터넷에 연결되어 있지 않으면 픽셀 글꼴 대신 기본 글꼴로 보이지만, 게임은 그대로 즐길 수 있습니다.
 
