@@ -39,22 +39,11 @@
 
 > 게임 안의 **게임 설명**(`H`)에서 규칙 · 역할 · 스킬 · 몬스터 · 보스 · 아이템을 자세히 볼 수 있습니다.
 
-## 다운로드
-[게임 다운로드 (v1.0)](https://github.com/jinshehyunn/craft-on-team-uselesseducation/releases/tag/v1.0)
-
-| 파일 | 대상 |
-|---|---|
-| `TripleHunter-1.0-web.zip` | 모든 운영체제 (웹 브라우저로 실행) |
-| `TripleHunter-1.0.0-arm64.dmg` | Mac (Apple Silicon · M1 이후) |
-| `TripleHunter-1.0.0-x64.dmg` | Mac (Intel) |
-| `TripleHunter-1.0.0-portable.exe` | Windows |
+## 실행
+[게임 실행 (v1.0)](https://github.com/jinshehyunn/craft-on-team-uselesseducation/releases/tag/v1.0)
 
 ## 실행 방법
-zip 압축 해제 후 index.html 더블클릭으로 실행
-
-- **웹 버전 (`TripleHunter-1.0-web.zip`)** — 압축을 풀고 `index.html`을 더블클릭하면 브라우저에서 바로 실행됩니다. (Chrome · Edge · Safari 권장)
-- **Mac 앱 (`.dmg`)** — 열어서 `Triple Hunter`를 응용 프로그램 폴더로 옮긴 뒤 실행합니다. 서명되지 않은 앱이라 처음 한 번은 앱을 **오른쪽 클릭 → 열기**로 실행해야 합니다.
-- **Windows 앱 (`.exe`)** — 설치 없이 바로 실행됩니다. "Windows의 PC 보호" 창이 뜨면 **추가 정보 → 실행**을 누릅니다.
+zip 압축 해제 후 triple-hunter.html 더블클릭으로 실행
 
 > 인터넷에 연결되어 있지 않으면 픽셀 글꼴 대신 기본 글꼴로 보이지만, 게임은 그대로 즐길 수 있습니다.
 
